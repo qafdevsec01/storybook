@@ -1,3 +1,11 @@
+## 7.1.2
+
+- Angular: Fix initialization of Storybook in Angular 16.1 - [#23598](https://github.com/storybookjs/storybook/pull/23598), thanks [@valentinpalkovic](https://github.com/valentinpalkovic)!
+- Dependencies: Downgrade `jest-mock` - [#23597](https://github.com/storybookjs/storybook/pull/23597), thanks [@ndelangen](https://github.com/ndelangen)!
+- Dependencies: Upgrade simple-update-notifier - [#23396](https://github.com/storybookjs/storybook/pull/23396), thanks [@dartess](https://github.com/dartess)!
+- Maintainance: Fix codeowner docs glob - [#23610](https://github.com/storybookjs/storybook/pull/23610), thanks [@kasperpeulen](https://github.com/kasperpeulen)!
+- NextJS: Add `@babel/core` as a dependency - [#22450](https://github.com/storybookjs/storybook/pull/22450), thanks [@valentinpalkovic](https://github.com/valentinpalkovic)!
+
 ## 7.1.1
 
 - Angular: Make enableProdMode optional - [#23489](https://github.com/storybookjs/storybook/pull/23489), thanks [@valentinpalkovic](https://github.com/valentinpalkovic)!
