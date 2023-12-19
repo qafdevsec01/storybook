@@ -53,7 +53,7 @@
     "@babel/plugin-transform-parameters": "^7.12.1",
     "@babel/plugin-transform-shorthand-properties": "^7.12.1",
     "@babel/plugin-transform-spread": "^7.12.1",
-    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-env": "^7.22.0",
     "@babel/preset-react": "^7.12.10",
     "@babel/preset-typescript": "^7.12.7",
     "@babel/register": "^7.12.1",
@@ -83,7 +83,7 @@
     "resolve-from": "^5.0.0",
     "ts-dedent": "^2.0.0",
     "util-deprecate": "^1.0.2",
-    "webpack": "4"
+    "webpack": "5.0.0"
   },
   "devDependencies": {
     "@types/interpret": "^1.1.1",
