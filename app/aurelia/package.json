@@ -34,7 +34,7 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@aurelia/webpack-loader": "^0.7.0",
+    "@aurelia/webpack-loader": "^0.9.0",
     "@storybook/addon-knobs": "6.2.9",
     "@storybook/addons": "6.2.9",
     "@storybook/core": "6.2.9",
@@ -47,7 +47,7 @@
     "read-pkg-up": "^7.0.1",
     "ts-loader": "^6.2.2",
     "url-loader": "^4.1.1",
-    "webpack": "^4.46.0"
+    "webpack": "^5.94.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.20",
@@ -62,7 +62,7 @@
     "sass-loader": "^8.0.2",
     "style-loader": "^0.23.0",
     "typescript": "^3.9.7",
-    "webpack": "^4.46.0"
+    "webpack": "^5.94.0"
   },
   "peerDependencies": {
     "aurelia": "*"
