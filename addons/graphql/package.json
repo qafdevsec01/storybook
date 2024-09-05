@@ -37,18 +37,18 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.23.2",
     "@babel/plugin-transform-classes": "^7.12.1",
     "@storybook/addons": "6.2.9",
     "@storybook/api": "6.2.9",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^9.1.3",
     "core-js": "^3.8.2",
     "global": "^4.4.0",
     "graphiql": "^0.17.5",
     "graphql": "^15.4.0",
     "prop-types": "^15.7.2",
     "regenerator-runtime": "^0.13.7",
-    "webpack": "4"
+    "webpack": "5.79.0"
   },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0",
