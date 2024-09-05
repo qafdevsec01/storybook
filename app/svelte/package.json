@@ -48,9 +48,9 @@
     "global": "^4.4.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "read-pkg-up": "^7.0.1",
+    "read-pkg-up": "^10.0.0",
     "regenerator-runtime": "^0.13.7",
-    "sveltedoc-parser": "^4.1.0",
+    "sveltedoc-parser": "^4.2.0",
     "ts-dedent": "^2.0.0"
   },
   "devDependencies": {
