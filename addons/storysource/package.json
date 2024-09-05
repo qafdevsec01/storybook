@@ -46,10 +46,10 @@
     "@storybook/theming": "6.2.9",
     "core-js": "^3.8.2",
     "estraverse": "^5.2.0",
-    "loader-utils": "^2.0.0",
+    "loader-utils": "^3.0.0",
     "prettier": "~2.2.1",
     "prop-types": "^15.7.2",
-    "react-syntax-highlighter": "^13.5.3",
+    "react-syntax-highlighter": "^15.5.0",
     "regenerator-runtime": "^0.13.7"
   },
   "devDependencies": {
