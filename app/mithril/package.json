@@ -41,7 +41,7 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.23.2",
     "@babel/plugin-transform-react-jsx": "^7.12.12",
     "@storybook/addons": "6.2.9",
     "@storybook/core": "6.2.9",
@@ -52,7 +52,7 @@
     "global": "^4.4.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "read-pkg-up": "^7.0.1",
+    "read-pkg-up": "^10.0.0",
     "regenerator-runtime": "^0.13.7",
     "ts-dedent": "^2.0.0"
   },
