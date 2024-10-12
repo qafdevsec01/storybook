@@ -68,7 +68,7 @@
     "babel-plugin-polyfill-corejs3": "^0.1.0",
     "chalk": "^4.1.0",
     "core-js": "^3.8.2",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "file-system-cache": "^1.0.5",
     "find-up": "^5.0.0",
     "fork-ts-checker-webpack-plugin": "^6.0.4",
@@ -83,7 +83,7 @@
     "resolve-from": "^5.0.0",
     "ts-dedent": "^2.0.0",
     "util-deprecate": "^1.0.2",
-    "webpack": "4"
+    "webpack": "5.0.0"
   },
   "devDependencies": {
     "@types/interpret": "^1.1.1",
