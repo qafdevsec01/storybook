@@ -41,7 +41,7 @@
     "@storybook/csf": "0.0.1",
     "@storybook/node-logger": "6.2.9",
     "core-js": "^3.8.2",
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.5",
     "globby": "^11.0.2",
     "jscodeshift": "^0.7.0",
     "lodash": "^4.17.20",
