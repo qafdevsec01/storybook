@@ -50,7 +50,7 @@
     "chalk": "^4.1.0",
     "commander": "^6.2.1",
     "core-js": "^3.8.2",
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.5",
     "envinfo": "^7.7.3",
     "express": "^4.17.1",
     "find-up": "^5.0.0",
