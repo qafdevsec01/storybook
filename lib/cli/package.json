@@ -42,7 +42,7 @@
     "test": "jest test/**/*.test.js"
   },
   "dependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.12.11",
     "@storybook/codemod": "6.2.9",
     "@storybook/node-logger": "6.2.9",
