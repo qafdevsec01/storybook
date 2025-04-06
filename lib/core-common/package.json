@@ -71,7 +71,7 @@
     "express": "^4.17.1",
     "file-system-cache": "^1.0.5",
     "find-up": "^5.0.0",
-    "fork-ts-checker-webpack-plugin": "^6.0.4",
+    "fork-ts-checker-webpack-plugin": "^9.1.0",
     "glob": "^7.1.6",
     "glob-base": "^0.3.0",
     "interpret": "^2.2.0",
