@@ -56,7 +56,7 @@
     "babel-plugin-react-docgen": "^4.2.1",
     "core-js": "^3.8.2",
     "global": "^4.4.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "prop-types": "^15.7.2",
     "react-dev-utils": "^11.0.3",
     "react-docgen-typescript-plugin": "^0.6.2",
@@ -64,7 +64,7 @@
     "read-pkg-up": "^7.0.1",
     "regenerator-runtime": "^0.13.7",
     "ts-dedent": "^2.0.0",
-    "webpack": "4"
+    "webpack": "5.0.0"
   },
   "devDependencies": {
     "@storybook/client-api": "6.2.9",
